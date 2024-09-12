@@ -103,7 +103,7 @@ export const Buymecoffee = () => {
               setMessage(""); // Reset message
             }}
           >
-            Buy Coffee
+            Buy Me Coffee
           </TransactionButton>
         </div>
       </div>
